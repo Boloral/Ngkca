@@ -4,7 +4,7 @@ import string
 import time
 
 TELEGRAM_TOKEN = "7911469039:AAFbpPSKTvgGT9cdzyB-wkwNsmFToxT5-Lw"
-TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"  # Замініть на ID чату або каналу, куди надсилатимуться повідомлення
+TELEGRAM_CHAT_ID = "1075736931"  # Замініть на ID чату або каналу, куди надсилатимуться повідомлення
 BASE_URL = "https://gachi.gay/"
 
 def random_string(length=5):
